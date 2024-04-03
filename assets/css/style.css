@@ -1,0 +1,29 @@
+body{
+  font-family: "Roboto", sans-serif;
+  text-align: justify;
+}
+
+.r-m {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.r-l{
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.r21px{
+  font-size: 21px;
+}
+.r20px{
+  font-size: 20px;
+}
+.r16px{
+  font-size: 16px;
+  color: #707070;
+}
+.r13px{
+  font-size: 13px;
+  color: #707070;
+}
